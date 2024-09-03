@@ -67,5 +67,5 @@ This project is licensed under the MIT License - see the [LICENSE][LICENSE] file
 ## Contact
 For any questions or feedback, please contact [menggu1234@naver.com][email].
 
-[LICENSE]: https://github.com/mjlee111/Yolo_maker_hsv/blob/master/LICENSE
+[LICENSE]: https://github.com/mjlee111/Yolo_marker_hsv/blob/master/LICENSE
 [email]: mailto:menggu1234@naver.com
