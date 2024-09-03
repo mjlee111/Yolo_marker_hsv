@@ -46,6 +46,21 @@ V Min: 0
 V Max: 255
 ```
 
+## Installation
+To run this project, you need to install the required Python packages. You can use `pip` to install the dependencies listed in the `requirements.txt` file. Also you can manually install the dependencies as follows:
+
+### Using `requirements.txt`
+```bash
+$ pip install -r requirements.txt
+```
+
+### Without `requirements.txt`
+```bash
+$ pip install opencv-python
+$ pip install numpy
+$ pip install PyQt5
+```
+
 ## Running the Application
 
 1. Ensure the `hsv.cfg` file is properly configured.
