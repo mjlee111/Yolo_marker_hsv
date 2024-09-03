@@ -38,12 +38,12 @@ V Max: 255  # Maximum Value (Brightness) value
 Example `hsv.cfg`:
 
 ```
-H Min: 0 0
-H Max: 180 180
-S Min: 0 0
-S Max: 255 255
-V Min: 0 0
-V Max: 255 255
+H Min: 0 
+H Max: 180
+S Min: 0 
+S Max: 255 
+V Min: 0 
+V Max: 255
 ```
 
 ## Running the Application
@@ -58,6 +58,14 @@ python yolo_marker.py
 
 4. Enter the `class_number` in the GUI and click `Start` to begin processing.
 
-## License
+## Contributing
+Feel free to submit issues, feature requests, and pull requests to improve the package.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## License
+This project is licensed under the MIT License - see the [LICENSE][LICENSE] file for details.
+
+## Contact
+For any questions or feedback, please contact [menggu1234@naver.com][email].
+
+[LICENSE]: https://github.com/mjlee111/Yolo_maker_hsv/blob/master/LICENSE
+[email]: mailto:menggu1234@naver.com
